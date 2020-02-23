@@ -1,0 +1,5 @@
+@-moz-document url-prefix(){
+    .content-list-friend .my-friend {
+        overflow: -moz-scrollbars-none;
+    }
+}
